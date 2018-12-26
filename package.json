@@ -1,5 +1,6 @@
 {
   "name": "boilerplate",
+  "description": "A Vue boilderplate with eslint",
   "version": "0.1.0",
   "private": true,
   "scripts": {
