@@ -1,6 +1,6 @@
 {
-  "name": "biolerplate",
-  "short_name": "biolerplate",
+  "name": "boilerplate",
+  "short_name": "boilerplate",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
