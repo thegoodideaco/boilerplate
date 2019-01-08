@@ -1,6 +1,6 @@
 module.exports = {
   runtimeCompiler: true,
-  css: {
+  css:             {
     sourceMap: true
   }
 }
